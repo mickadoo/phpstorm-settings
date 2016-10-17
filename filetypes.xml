@@ -1,9 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".bashrc" type="Bash" />
       <mapping pattern=".bash_aliases" type="Bash" />
+      <mapping pattern=".bashrc" type="Bash" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="ok" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
