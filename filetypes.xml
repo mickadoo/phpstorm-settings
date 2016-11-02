@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".bash_aliases" type="Bash" />
-      <mapping pattern=".vimrc" type="Bash" />
       <mapping pattern=".bashrc" type="Bash" />
+      <mapping pattern=".vimrc" type="Bash" />
+      <mapping pattern=".bash_aliases" type="Bash" />
       <mapping ext="info" type="Ini" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern="setup" type="PLAIN_TEXT" />
       <mapping ext="ok" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
