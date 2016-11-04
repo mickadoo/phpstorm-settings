@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Files in Previous Search Result" />
-    <option name="defaultScopeName" value="Files in Previous Search Result" />
-    <option name="SEARCH_SCOPE" value="Files in Previous Search Result" />
+    <option name="customScope" value="Project Files (no vendor)" />
+    <option name="defaultScopeName" value="Project Files (no vendor)" />
+    <option name="SEARCH_SCOPE" value="Project Files (no vendor)" />
   </component>
 </application>
