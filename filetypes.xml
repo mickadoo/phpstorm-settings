@@ -5,6 +5,7 @@
       <mapping pattern=".vimrc" type="Bash" />
       <mapping pattern=".bash_aliases" type="Bash" />
       <mapping ext="info" type="Ini" />
+      <mapping ext="dist" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping pattern="setup" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
