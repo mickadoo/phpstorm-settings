@@ -8,7 +8,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
-      <phpcs_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/composer/vendor/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
