@@ -13,8 +13,8 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="ssh://php-remote@172.19.0.2:22/usr/bin/php" id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
-        <remote_data HOST="172.19.0.2" PORT="22" ANONYMOUS="false" USERNAME="php-remote" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/php-remote/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="ssh://php-remote@172.18.0.2:22/usr/bin/php" id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" name="Remote PHP 5.5" debugger_id="php.debugger.XDebug">
+        <remote_data HOST="172.18.0.2" PORT="22" ANONYMOUS="false" USERNAME="php-remote" PASSWORD="" PRIVATE_KEY_FILE="" MY_KNOWN_HOSTS_FILE="" PASSPHRASE="" USE_KEY_PAIR="false" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/php-remote/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="docker://dockerimage_api:latest/php" id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" name="Docker PHP 5.5" debugger_id="php.debugger.XDebug">
         <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="dockerimage_api:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="php" HELPERS_PATH="/opt/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
@@ -24,7 +24,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" version="5.5.37-1+deprecated+dontuse+deb.sury.org~trusty+1">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="172.18.0.1 58540 22" version="5.5.37-1+deprecated+dontuse+deb.sury.org~trusty+1">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-imagick.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-newrelic.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-phalcon.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-redis.ini, /etc/php5/cli/conf.d/20-xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
@@ -199,7 +199,7 @@
             <configuration_option name="newrelic.high_security" value="0" />
             <configuration_option name="newrelic.ignored_params" value="" />
             <configuration_option name="newrelic.labels" value="" />
-            <configuration_option name="newrelic.license" value="916e3915b3111cd67918f7546bc2ee2838a371c8" />
+            <configuration_option name="newrelic.license" value="" />
             <configuration_option name="newrelic.logfile" value="/var/log/newrelic/php_agent.log" />
             <configuration_option name="newrelic.loglevel" value="info" />
             <configuration_option name="newrelic.phpunit_events.enabled" value="0" />
@@ -650,7 +650,7 @@
             <configuration_option name="newrelic.high_security" value="0" />
             <configuration_option name="newrelic.ignored_params" value="" />
             <configuration_option name="newrelic.labels" value="" />
-            <configuration_option name="newrelic.license" value="916e3915b3111cd67918f7546bc2ee2838a371c8" />
+            <configuration_option name="newrelic.license" value="" />
             <configuration_option name="newrelic.logfile" value="/var/log/newrelic/php_agent.log" />
             <configuration_option name="newrelic.loglevel" value="info" />
             <configuration_option name="newrelic.phpunit_events.enabled" value="0" />
