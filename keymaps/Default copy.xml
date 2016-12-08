@@ -1,5 +1,4 @@
 <keymap version="1" name="Default copy" parent="Default for XWin">
-  <action id="EditorPreviousWordWithSelection" />
   <action id="ResizeToolWindowLeft" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
