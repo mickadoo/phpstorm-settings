@@ -2,12 +2,14 @@
   <component name="MessDetector">
     <phpmd_settings>
       <MessDetectorConfiguration />
+      <phpmd_by_interpreter interpreter_id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" tool_path="/usr/local/composer/vendor/phpmd/phpmd/src/bin/phpmd " />
       <phpmd_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" tool_path="/usr/local/composer/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
+      <phpcs_by_interpreter interpreter_id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" tool_path="/usr/local/composer/vendor/bin/phpcs" />
       <phpcs_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" max_messages_per_file="100" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/composer/vendor/bin/phpcs" />
     </phpcs_settings>
   </component>
@@ -24,7 +26,7 @@
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="Remote PHP 5.5">
-        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="172.18.0.1 51508 22" version="5.5.37-1+deprecated+dontuse+deb.sury.org~trusty+1">
+        <phpinfo binary_type="PHP" php_cli="/usr/bin/php5" path_separator=":" remote_host="172.18.0.1 39138 22" version="5.5.37-1+deprecated+dontuse+deb.sury.org~trusty+1">
           <additional_php_ini>/etc/php5/cli/conf.d/05-opcache.ini, /etc/php5/cli/conf.d/10-pdo.ini, /etc/php5/cli/conf.d/20-curl.ini, /etc/php5/cli/conf.d/20-gd.ini, /etc/php5/cli/conf.d/20-imagick.ini, /etc/php5/cli/conf.d/20-json.ini, /etc/php5/cli/conf.d/20-mysql.ini, /etc/php5/cli/conf.d/20-mysqli.ini, /etc/php5/cli/conf.d/20-newrelic.ini, /etc/php5/cli/conf.d/20-pdo_mysql.ini, /etc/php5/cli/conf.d/20-phalcon.ini, /etc/php5/cli/conf.d/20-readline.ini, /etc/php5/cli/conf.d/20-redis.ini, /etc/php5/cli/conf.d/20-xdebug.ini</additional_php_ini>
           <configuration_file>/etc/php5/cli/php.ini</configuration_file>
           <configuration_options>
