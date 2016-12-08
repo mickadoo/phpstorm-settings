@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy 1" parent="Default for XWin">
+  <action id="Back">
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt open_bracket" />
+  </action>
+  <action id="Forward">
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt close_bracket" />
+  </action>
+  <action id="NextProjectWindow" />
+  <action id="PreviousProjectWindow" />
+</keymap>
