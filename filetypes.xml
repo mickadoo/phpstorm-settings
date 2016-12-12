@@ -14,6 +14,7 @@
       <mapping pattern="tm" type="PLAIN_TEXT" />
       <mapping pattern="b" type="PLAIN_TEXT" />
       <mapping pattern="a" type="PLAIN_TEXT" />
+      <mapping ext="abx" type="PLAIN_TEXT" />
       <mapping ext="ok" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
