@@ -17,6 +17,7 @@
       <mapping pattern="a" type="PLAIN_TEXT" />
       <mapping ext="astm" type="PLAIN_TEXT" />
       <mapping ext="abx" type="PLAIN_TEXT" />
+      <mapping ext="sample" type="PLAIN_TEXT" />
       <mapping ext="ok" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
