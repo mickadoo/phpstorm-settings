@@ -1282,8 +1282,8 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="4a474a94-0f6f-4241-adb7-d758ae6a6eb4" load_method="PHPUNIT_PHAR" custom_loader_path="" phpunit_phar_path="/opt/project/phpunit-5.7.4.phar" />
-      <phpunit_by_interpreter interpreter_id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" load_method="CUSTOM_LOADER" custom_loader_path="/usr/local/composer/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="4a474a94-0f6f-4241-adb7-d758ae6a6eb4" load_method="CUSTOM_LOADER" custom_loader_path="/usr/local/composer/vendor/autoload.php" phpunit_phar_path="/opt/project/phpunit-5.7.4.phar" />
+      <phpunit_by_interpreter interpreter_id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" load_method="CUSTOM_LOADER" custom_loader_path="/usr/local/composer/vendor/autoload.php" phpunit_phar_path="/opt/project/phpunit-5.7.4.phar" />
     </phpunit_settings>
   </component>
 </application>
