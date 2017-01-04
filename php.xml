@@ -3,8 +3,8 @@
     <phpmd_settings>
       <MessDetectorConfiguration />
       <phpmd_by_interpreter interpreter_id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" tool_path="/usr/local/composer/vendor/phpmd/phpmd/src/bin/phpmd " />
-      <phpmd_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" tool_path="/usr/local/composer/vendor/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="4a474a94-0f6f-4241-adb7-d758ae6a6eb4" tool_path="/usr/local/composer/vendor/bin/phpmd" />
+      <phpmd_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" tool_path="/usr/local/composer/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
@@ -1282,8 +1282,9 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="4a474a94-0f6f-4241-adb7-d758ae6a6eb4" load_method="CUSTOM_LOADER" custom_loader_path="/usr/local/composer/vendor/autoload.php" phpunit_phar_path="/opt/project/phpunit-5.7.4.phar" />
+      <phpunit_by_interpreter interpreter_id="4a474a94-0f6f-4241-adb7-d758ae6a6eb4" load_method="CUSTOM_LOADER" custom_loader_path="/opt/project/vendor/autoload.php" phpunit_phar_path="/opt/project/phpunit-5.7.4.phar" />
       <phpunit_by_interpreter interpreter_id="966c9f3d-fc28-4f12-a580-47c5c86fc15a" load_method="CUSTOM_LOADER" custom_loader_path="/usr/local/composer/vendor/autoload.php" phpunit_phar_path="/opt/project/phpunit-5.7.4.phar" />
+      <phpunit_by_interpreter interpreter_id="1a3ecbaa-c4d1-4eaa-9a65-0e79d6dc2df7" load_method="CUSTOM_LOADER" />
     </phpunit_settings>
   </component>
 </application>
